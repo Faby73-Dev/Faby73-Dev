@@ -1,6 +1,8 @@
 ## Welcome to My GitHub Profile! Here you'll find my projects and learning journey !!! 👋
 
 <p align="center"><img align="center" src="./.github/example-dark.png#gh-dark-mode-only"/></p>
+<p align="center"><img align="center" src="./.github.com/Faby73-Dev/Faby73-Dev/blob/main/imagenPrincipal.jpg"/></p>
+
 
 <!--
 **Faby73-Dev/Faby73-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
