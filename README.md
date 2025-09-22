@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Profile! Here you'll find my projects and learning journey !!! 👋
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/faby73/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faby73/)
 [<img src="https://img.shields.io/github/followers/Faby73-Dev?label=follow&style=social" height="22" title="Follow me" />](https://github.com/Faby73-Dev) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marcelofabian2008@gmail.com)
 <a href="https://twitter.com/MFabian88" target="_blank"><img src="https://img.shields.io/badge/-%230077B5.svg?&style=flat-square&logo=x&logoColor=black" alt="x"></a>
