@@ -21,7 +21,6 @@
 
 </br>
 </br>
-</br>
 
 ## You can contact me by:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:uusuariotv@gmail.com)
@@ -30,15 +29,10 @@
 
 </br>
 </br>
-</br>
-
-
 
 <h3 align="center">by Faby73 ⚡</h3>
 
 <!--
-<p align="center"><img align="center" src="imagenPrincipal.jpg"/></p>
-<h3></h3>
 
 **Faby73-Dev/Faby73-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
