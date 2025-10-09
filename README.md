@@ -6,7 +6,7 @@
 </br>
 
 #### About me:
-> **Hey there, I'm Faby a junior I am Fabian, freelance Junior Back-end Developer, I like reading, mathematics, calculus. On my GitHub I will develop data structure algorithms for example Trees, Fifo, Lifo. Queues; through different programming languages. I hope my resources are useful and I thank you for visiting my profile and you can contact me through my social networks for any questions.**
+> **Hey there, I'm Faby a junior I am Fabian freelance Junior Back-end Developer, I like reading, mathematics, calculus. On my GitHub I will develop data structure algorithms for example Trees, Fifo, Lifo. Queues; through different programming languages. I hope my resources are useful and I thank you for visiting my profile and you can contact me through my social networks for any questions.**
 
 </br>
 </br>
@@ -15,7 +15,7 @@
 ## My skills in:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,cpp,java,cs,dotnet,md,perl,php,postgres,powershell,vscode," />
+    <img src="https://skillicons.dev/icons?i=js,python,cpp,java,cs,git,dotnet,md,perl,php,postgres,powershell,vscode," />
   </a>
 </p>
 
