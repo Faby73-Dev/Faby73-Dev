@@ -1,20 +1,38 @@
-## Welcome to My GitHub Profile! Here you'll find my projects and learning journey !!! 👋
+# Welcome to My Profile! Here you'll find my projects and learning journey !!! 👋
 
-[![Linkedin](https://img.shields.io/badge/Faby73-73?style=for-the-badge&logoSize=auto&label=LinkedIn&color=%232DA9D7)](https://www.linkedin.com/in/faby73/)
+<p align="center"><img align="center" src="imagenPrincipal.jpg" width="500" height="500"/></p>
+
+</br>
+</br>
+
+#### About me:
+> **Hey there, I'm Faby a junior I am Fabian, freelance Junior Back-end Developer, I like reading, mathematics, calculus. On my GitHub I will develop data structure algorithms for example Trees, Fifo, Lifo. Queues; through different programming languages. I hope my resources are useful and I thank you for visiting my profile and you can contact me through my social networks for any questions.**
+
+</br>
+</br>
+</br>
+
+## My skills in:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,cpp,java,cs,dotnet,md,perl,php,postgres,powershell,vscode," />
+  </a>
+</p>
+
+</br>
+</br>
+</br>
+
+## You can contact me by:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:uusuariotv@gmail.com)
 [![x](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/MFabian88)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF.svg?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/invite/8ysfb9MX)
 
+</br>
+</br>
+</br>
 
 
-## _Hey there, I'm Faby a freelance Junior Back-end Developer in Python & Java, I studied at the National University of Jujuy, I like reading, mathematics, calculus. I'm not good at sports. On my GitHub I will develop data structure algorithms for example Trees, Fifo, Lifo. Queues; through different programming languages. I thank you for visiting my profile and you can contact me through my social networks for any questions._
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,cpp,java,cs" />
-  </a>
-</p>
 
 <h3 align="center">by Faby73 ⚡</h3>
 
