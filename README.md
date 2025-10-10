@@ -1,36 +1,20 @@
-# Welcome to My Profile!!! 👋
+<!-- -->
+# ***Welcome to My Profile !!! 👋***
+</br>
 
-​​***Here you'll find my projects and learning journey***
-<p align="center" font="JetBrains+Mono" size="1008" >##Este texto estará centrado y en rojo.</p>
-        <p style="font-size: 200px;">Este texto tiene un tamaño de 20 píxeles</p>
-
-
-
-\.\<html>
-</br>
-​\............​\<head>
-</br>
-\............\<title>Wel\</title>
-</br>
-​\............​\</head>
-</br>
-\............\<body>
-</br>
-\..................\<h1>Hola Mundo \</h1>
-</br>
-\............\</body>
-</br>
-\.\</html>
-
+<!-- -->
 <p align="center"><img align="center" src="imagenPrincipal.jpg" width="500" height="500"/></p>
 
+<!-- -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=F70600FF&center=false&vCenter=true&width=1000&height=100&lines=programmer%20%2A%20%28day%20%2B%20night%29%20%2B%20%28knowledge%5Eeternity%29%20%3D%20MyLife" alt="Typing Animation" />
 </div>
 
 </br>
 </br>
+</br>
 
+<!-- -->
 #### About me:
 > **Hey there, I'm Faby freelance Junior Back-end Developer, I like reading, mathematics, calculus. On my GitHub I will develop data structure algorithms for example Trees, Fifo, Lifo. Queues; through different programming languages. I hope my resources are useful and I thank you for visiting my profile and you can contact me through my social networks for any questions.**
 
@@ -48,6 +32,7 @@
 </br>
 </br>
 
+<!-- -->
 ## Contact me:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:uusuariotv@gmail.com)
 [![x](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/MFabian88)
@@ -56,6 +41,7 @@
 </br>
 </br>
 
+<!-- -->
 <h3 align="center">by Faby73 ⚡</h3>
 
 <!--
