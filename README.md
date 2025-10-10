@@ -1,6 +1,23 @@
 # Welcome to My Profile! Here you'll find my projects and learning journey !!! 👋
+<h1>
+   <font color="#f742d4"><strong>HOLA MUNDO</strong></font>
+</h1>
+<h1 style="color: #FF0000;">Este es un título rojo</h1>
+<span style="color: red;">
+  <h1>Este título es rojo</h1>
+</span>
 
 <p align="center"><img align="center" src="imagenPrincipal.jpg" width="500" height="500"/></p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=F742D4&center=true&vCenter=true&width=1000&height=100&lines=Amusic+%2B+((programmer+*+(day+%2B+night))+%2B+(knowledge%5Eeternity)+%3D+MyLife+%2B+GNULinux" alt="Typing Animation" />
+</div>
+
+
+$$3^{4^5} + \frac{1}{2}$$
+<p style="text-align: center; color: red;">Este texto estará centrado
+y en rojo.</p>
+
 
 </br>
 </br>
