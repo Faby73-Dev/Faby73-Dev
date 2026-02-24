@@ -34,7 +34,6 @@
 
 <!-- -->
 ## Contact me:
-<!-- [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:uusuariotv@gmail.com) -->
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:everydayemail.composure906@slmails.com)
 [![x](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/MFabian88)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF.svg?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/invite/8ysfb9MX)
