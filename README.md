@@ -3,9 +3,6 @@
 </br>
 
 <!-- -->
-<p align="center"><img align="center" src="imagenPrincipal.jpg" width="500" height="500"/></p>
-
-<!-- -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=F70600FF&center=false&vCenter=true&width=1000&height=100&lines=programmer%20%2A%20%28day%20%2B%20night%29%20%2B%20%28knowledge%5Eeternity%29%20%3D%20MyLife" alt="Typing Animation" />
 </div>
